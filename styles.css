@@ -93,6 +93,34 @@ p{
       margin: 0 0 35px 0; 
     }
 
+    /* title blue */
+
+    .titleblue-section {
+      position: relative;
+      text-align: center;
+     
+    }
+
+    .titleblue-background {
+      position: absolute;
+      font-size: 85px;
+      color: rgba(166, 145, 145, 0.18); 
+      font-weight: bold;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      white-space: nowrap;
+      pointer-events: none;
+    }
+
+    .titleblue-foreground {
+      font-size: 48px;
+      color: 002147;
+      font-weight: 900;
+      position: relative;
+      z-index: 1;
+      margin: 0 0 35px 0; 
+    }
 /* EXPERIENCER SERTIFIKAT */
 .photo-gallery {
   display: flex;
@@ -169,7 +197,7 @@ h2 {
       flex-direction: column;
       align-items: center;
       transition: 1.3s;
-      margin: 50px;
+      margin: 30px;
     }
 
     .phone-mockup:hover {
