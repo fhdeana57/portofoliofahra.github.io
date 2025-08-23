@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../calculator"
+		},
+		{
+			"path": "../to do list"
+		},
+		{
+			"path": "../tictactoe"
+		},
+		{
+			"path": "../bom game"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../python"
+		},
+		{
+			"path": "../css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "porto"
+	}
+}
